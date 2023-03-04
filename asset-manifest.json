@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-color-randomizer/static/css/main.2f09e58c.css",
+    "main.js": "/react-color-randomizer/static/js/main.984b0a17.js",
+    "static/js/787.b24be7c4.chunk.js": "/react-color-randomizer/static/js/787.b24be7c4.chunk.js",
+    "index.html": "/react-color-randomizer/index.html",
+    "main.2f09e58c.css.map": "/react-color-randomizer/static/css/main.2f09e58c.css.map",
+    "main.984b0a17.js.map": "/react-color-randomizer/static/js/main.984b0a17.js.map",
+    "787.b24be7c4.chunk.js.map": "/react-color-randomizer/static/js/787.b24be7c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f09e58c.css",
+    "static/js/main.984b0a17.js"
+  ]
+}
