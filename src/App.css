@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+button:hover{
+  transition: ease-in 0.2s;
+  background-color: white;
+}
+
